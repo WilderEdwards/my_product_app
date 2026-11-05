@@ -1,5 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:my_product_app/main.dart';
+import 'package:my_product_app/product_page.dart';
 
 void main() {
   test('search is a case-insensitive substring match', () {
